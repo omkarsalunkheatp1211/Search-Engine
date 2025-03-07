@@ -1,4 +1,4 @@
-# Advanced Search Engine
+# Search Engine
 
 A powerful search engine implementation with advanced algorithms and modern UI.
 
@@ -8,7 +8,6 @@ A powerful search engine implementation with advanced algorithms and modern UI.
 - [Architecture](#architecture)
 - [Setup](#setup)
 - [Recommended Commands](#recommended-commands)
-- [API Endpoints](#api-endpoints)
 
 ## Features
 - **Advanced Search Algorithms**
@@ -48,12 +47,11 @@ A powerful search engine implementation with advanced algorithms and modern UI.
   - HTML5
   - CSS3
   - JavaScript
-  - Font Awesome icons
 
 - **Development Tools**
   - Maven
   - Git
-  - Spring Tool Suite/IntelliJ IDEA
+  - Spring Tool IntelliJ IDEA
 
 ## Architecture
 The search engine implements several key components:
