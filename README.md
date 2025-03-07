@@ -84,7 +84,7 @@ The search engine implements several key components:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/search-engine.git
+git clone https://github.com/omkarsalunkheatp1211/Search-Engine.git
 cd search-engine
 ```
 
